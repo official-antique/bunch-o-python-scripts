@@ -1,0 +1,12 @@
+[
+	{
+		"number" : "+<AREA CODE><NUMBER> (NO SPACES) (+61412345678 - Example of Australian number)",
+		"spam" : [
+			"a",
+			"b",
+			"c",
+			...
+		]
+	},
+	...
+]
