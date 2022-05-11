@@ -13,7 +13,7 @@ intents = Intents.default()
 intents.members = True
 
 
-bot = commands.Bot(command_prefix='!', description='DiscordManager', intents=intents)
+bot = commands.Bot(command_prefix='!', intents=intents)
 database = MongoClient('mongodb+srv://<username>:{}@cluster0.1sdlk.mongodb.net/<project_name>?retryWrites=true&w=majority'.format(os.getenv('DATABASE_PASSWORD')))
 
 
