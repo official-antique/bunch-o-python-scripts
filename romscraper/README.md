@@ -1,5 +1,5 @@
 # Romscraper
-These scripts are a collection of rom sites scrapers that will scrape all roms provided the appropriate agument is used.
+These scripts are a collection of rom site scrapers that will scrape all roms provided the appropriate argument is used.
 
 ## Requirements
 		pip install requests-cache wget
